@@ -10,7 +10,7 @@ Channel | About
 [TheHappieCat](https://www.youtube.com/channel/UCtAIs1VCQrymlAnw3mGonhw) | `Basics`
 [Fireship](https://www.youtube.com/channel/UCtAIs1VCQrymlAnw3mGonhw) | `WebDev`
 [OdatNurd - Sublime Text Tutorials](https://www.youtube.com/channel/UCtAIs1VCQrymlAnw3mGonhw) | `sublime-text editor`
-[Academind])(https://www.youtube.com/channel/UCtAIs1VCQrymlAnw3mGonhw) | `web-dev`
+[Academind](https://www.youtube.com/channel/UCtAIs1VCQrymlAnw3mGonhw) | `web-dev`
 
 
 ## Hacking
